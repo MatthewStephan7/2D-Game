@@ -1,1 +1,2 @@
 # 2D-Game
+This program is a 2D game I created with the objective to avoid the incoming traps by jumping over them. As time goes by the game gets increasingly difficult and the users score accumulates as well. There are multiple selections the user can make such as choosing a color or picking a difficulty. The entire game was created using both C# and Unity, while the models were all originally created using Photoshop.
